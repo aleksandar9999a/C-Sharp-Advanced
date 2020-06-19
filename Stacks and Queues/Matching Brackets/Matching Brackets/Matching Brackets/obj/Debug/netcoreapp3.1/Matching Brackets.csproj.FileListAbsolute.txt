@@ -1,0 +1,12 @@
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
+C:\Users\Alexandar\Desktop\C# Advanced\Stacks and Queues\Matching Brackets\Matching Brackets\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.genruntimeconfig.cache
